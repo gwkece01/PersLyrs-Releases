@@ -1,8 +1,8 @@
 {
-  "versionName": "4.3.1",
-  "versionCode": 431,
-  "tagName": "v4.3.1",
+  "versionName": "4.3.2",
+  "versionCode": 432,
+  "tagName": "v4.3.2",
   "releaseDate": "2026-11-24",
-  "description": "- Ikon Aplikasi Baru PersLrys (Emerald-Cyan Waveform)\n- Optimasi UI Pop-up Update lebih ringkas & bersih\n- Tombol 'Cek dan Update' simpel + Ikon Resmi YouTube & TikTok",
-  "downloadUrl": "https://raw.githubusercontent.com/gwkece01/PersLyrs-Releases/main/PersLrys-4.3.1.apk"
+  "description": "- Dynamic Island Pemutaran Lagu interaktif di bagian atas\n- Tab baru 'Saya' di Downbar & ikon Gear Pengaturan di kanan atas\n- Menu Recap Musik (Mingguan, Bulanan & Tahunan) di kanan atas\n- Transparent Downbar UI (Bubble Glass) dengan animasi tekan-geser halus\n- Sistem Masuk Akun Gmail baru milik developer PersLrys (Elbemper)",
+  "downloadUrl": "https://raw.githubusercontent.com/gwkece01/PersLyrs-Releases/main/PersLrys-4.3.2.apk"
 }
