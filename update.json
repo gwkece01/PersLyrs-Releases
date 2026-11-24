@@ -1,8 +1,8 @@
 {
-  "versionName": "4.3.0",
-  "versionCode": 430,
-  "tagName": "v4.3.0",
+  "versionName": "4.3.1",
+  "versionCode": 431,
+  "tagName": "v4.3.1",
   "releaseDate": "2026-11-24",
-  "description": "- Fitur Baru: In-App Online Auto-Updater terhubung langsung ke GitHub gwkece01/PersLyrs-Releases\n- Kotak centang 'Jangan perlihatkan sampai update terbaru' pada Pop-up Update\n- Optimasi UI Pustaka simpel (Disukai & Diunduh)\n- Tema Emerald Green, Ocean Blue & Obsidian Dark + 15 Font Kustom",
-  "downloadUrl": "https://raw.githubusercontent.com/gwkece01/PersLyrs-Releases/main/PersLrys-4.3.0.apk"
+  "description": "- Ikon Aplikasi Baru PersLrys (Emerald-Cyan Waveform)\n- Optimasi UI Pop-up Update lebih ringkas & bersih\n- Tombol 'Cek dan Update' simpel + Ikon Resmi YouTube & TikTok",
+  "downloadUrl": "https://raw.githubusercontent.com/gwkece01/PersLyrs-Releases/main/PersLrys-4.3.1.apk"
 }
