@@ -1,8 +1,8 @@
 {
-  "versionName": "4.3.3",
-  "versionCode": 433,
-  "tagName": "v4.3.3",
-  "releaseDate": "2026-11-24",
-  "description": "- Dynamic Island tetap tampil saat keluar dari aplikasi (System Overlay)\n- Pengaturan Frame Rate: LOW (60 FPS), MID (90 FPS), HIGH (120 FPS), ULTRA (144 FPS)\n- Perbaikan animasi geser Downbar 144 FPS & menu Telusuri tidak otomatis memunculkan keyboard\n- Menu Recap minimalis dengan list lagu menurun ke bawah (Mingguan, Bulanan, Tahunan)\n- Tampilan Login Google lebih bersih dengan tombol 'Login Gmail' & 'Login Web'",
-  "downloadUrl": "https://raw.githubusercontent.com/gwkece01/PersLyrs-Releases/main/PersLrys-4.3.3.apk"
+  "versionName": "4.3.4",
+  "versionCode": 434,
+  "tagName": "v4.3.4",
+  "releaseDate": "2026-11-25",
+  "description": "- Redesign Dynamic Island interaktif (Mode kapsul cover + gelombang & Mode perluasan kartu penuh)\n- Sentuh kapsul untuk membuka menu kontrol (Previous, Play/Pause, Next, Seekbar & Favorit)\n- Ketuk cover / logo musik yang diputar untuk langsung membuka aplikasi PersLrys\n- Tombol Favorit ('+' jika belum disimpan, centang '✓' putih jika sudah disimpan)\n- Otomatis tersembunyi / kembali ringkas jika tidak disentuh selama 5 detik",
+  "downloadUrl": "https://raw.githubusercontent.com/gwkece01/PersLyrs-Releases/main/PersLrys-4.3.4.apk"
 }
